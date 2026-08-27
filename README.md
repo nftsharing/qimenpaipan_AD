@@ -1,21 +1,21 @@
-# 八字排盘 AI解卦 有道八字排盘
+# 奇门排盘 AI帮解卦 有道奇门排盘
 
-https://bazi.youdaopaipan.com/
+https://qimen.youdaopaipan.com/
 
-https://bazi.youdaopaipan.com/help.html
+https://qimen.youdaopaipan.com/help.html
 
-## 1. 什么是八字？
- <img width="400" height="900" alt="image" src="https://github.com/user-attachments/assets/cf76a56c-9d13-48e2-b29a-e93b55215762" />
+## 1. 什么是奇门遁甲？
+ <img width="400" height="900" alt="image" src="https://qimen.youdaopaipan.com/help/qimen.jpg" />
 
  
 ## 3. 如何使用？
    
-   <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/5a9031a1-703c-4fc5-ad2b-8a0c153edd92" />
+   <img width="500" height="700" alt="image" src="https://qimen.youdaopaipan.com/help/help1.png" />
 
 
 ## 4. 获得APP？
    
-    <img width="400" height="700" alt="image" src="https://bazi.youdaopaipan.com/help/add1.PNG" />
+    <img width="400" height="700" alt="image" src="https://liuyao.youdaopaipan.com/download.html" />
 
 ## 5. 如何转发和收录？
    
@@ -23,7 +23,7 @@ https://bazi.youdaopaipan.com/help.html
 
 ## 7. 卦例1
    
-   <img width="400" height="1900" alt="image" src="https://github.com/user-attachments/assets/094d29be-e758-4d31-a59e-d912a4b23996" />
+   <img width="400" height="1900" alt="image" src="https://qimen.youdaopaipan.com/help/ex1.jpg" />
 
 
 
